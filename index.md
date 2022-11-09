@@ -1,20 +1,18 @@
 ---
 title: Links
-description: Resources for the Domang Jazz Ensemble
+description: Resources for Khorós Ōkeanós
 ---
 
-🎸 [Bandcamp](https://domang-jazz-ensemble.bandcamp.com/)
+🎸 Bandcamp - TBD
 
-🎶 [Lead Sheets / Scores](https://drive.google.com/drive/folders/1fq6YZ8aZz6KepLBUhM3gYMuCmxeONaKn?usp=sharing)
+🎶 Scores - TBD
 
-🔊 [Soundcloud](https://soundcloud.com/domang-jazz-ensemble/albums)
+🔊 [Soundcloud](https://soundcloud.com/oubiwann/sets/khoros-okeanos)
 
-📺 [YouTube](https://www.youtube.com/channel/UCQlmGQA2ICTYgSvcfmLH-oA)
+📺 [YouTube](https://www.youtube.com/playlist?list=PLFTN-XUik9o8lXMugLPHkt90ZT6o4066r)
 
-🐘 [Mastodon](https://mastodon.art/@tdje)
+🐘 [Mastodon](https://zirk.us/web/@okeanos)
 
-🐦 [Twitter](https://twitter.com/DomangJazz)
+📷 Instagram - TBD
 
-📷 [Instagram](https://www.instagram.com/domangjazz/)
-
-💻 [GitHub](https://github.com/domang-jazz-ensemble)
+💻 [GitHub](https://github.com/khoros-okeanos)
